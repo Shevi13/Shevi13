@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Shevi13
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning basic web development 
+- 💞️ I’m looking to collaborate on web dev
+- 📫 How to reach me: so_hassan1@outlook.com
